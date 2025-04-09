@@ -34,7 +34,7 @@ XCPData addresses this issue by providing real paired X-ray and CT images, enabl
 
 You can access the dataset via the following Google Drive link:
 
-👉 [Download XCPData from Google Drive](https://drive.google.com/your-link-here)
+👉 [Download XCPData from Google Drive](https://drive.google.com/file/d/1RNiZL4dt7BZv_QRc650wNZv8jviNvhHw/view?usp=drive_link)
 
 > Note: Please cite the corresponding paper if you use this dataset in your research.
 
